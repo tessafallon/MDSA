@@ -1,0 +1,11 @@
+1. 
+x <- 12
+y <- 1
+for(i in 1:12){
+y <- y*i
+}
+return(y)
+
+2. ans2 <- matrix(20:50, nrow = 5)
+
+
