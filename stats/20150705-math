@@ -1,0 +1,67 @@
+2.12, 2.14, 2.28, and 2.30
+
+2.12 school absences
+25% miss 1 day
+15% 2 days
+28% 3 days
+
+a. ANSWER = 32%
+100% - 68%(sum of all absences) = 32
+
+b. 25% (no more than 1) + 32% (less than 1) = 57%
+
+c. 68% (sum of all % of missed days)
+
+d. Each child has a 32% chance of missing no days and the number of days each child misses is independent of the number of days another child misses, so  32/100 * 32/100 = 1024/10000.  
+
+e. Each child has a 68% chance of missing at least one day and the number of days each child misses is independent of the number of days another child misses.  68/100 * 68/100 = 4624/10000
+
+f. I suppose that is more likely that children in a single family will miss an similar number of days and that it is not truly independent but there is no way to account for this with the data given.
+
+2.14
+a. 0.0130/0.0357 = 0.3641 = 36%
+
+P(overweight) = 157026/428638 36% 0.3663
+P(no health coverage) = 15327/428638 3% 0.0357
+
+b. 47%
+O = 157026
+NH = 44837
+O or NH = 201863/428638 = 0.4709
+
+2.28
+a.  1/11
+12 socks total
+probability of blue = 4/12
+4/12 * 3/11 = 1/11
+
+b. 7/22
+7/12 * 6/11 = 7/22
+
+c. 5/11
+1 - (9/12 * 8/11) = 1 - 6/11 = 5/11
+probability of at least 1 black sock
+
+d. 0 - no green socks
+
+e. 19/66
+(4/12 * 3/11)+(5/12 * 4/11)+(3/12*2/11)
+
+
+2.30
+a. 
+28/95 * 59/94 = 826/4465 = 0.1849 = 18%
+
+b. 2003/8930 = 0.2387 = 24%
+
+59/95 - fiction, not hardcover
+28/94 - hardcover
+826/4465
+
+13/95 - fiction + hardcover
+27/94 - hardcover
+351/8930
+
+c. 72/95 * 28/95 = 2016/9025 = 0.2233 = 22%
+
+d. Because the change in the replacement condition doesn't cause a significant variation
