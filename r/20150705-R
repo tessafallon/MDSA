@@ -11,5 +11,7 @@ return(y)
 
 3.
 [Not a solution]
-define function where vars[1]x^2 + vars[2]x + vars[3] = 0
+define function where 
+function(x) does
+vars[1]x^2 + vars[2]x + vars[3] = 0
 insert variables a,b,c into index positions in vars, or just vars <- [a-value,b-value,c-value]
