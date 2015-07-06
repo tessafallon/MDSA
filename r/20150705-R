@@ -9,3 +9,7 @@ return(y)
 2. ans2 <- matrix(20:50, nrow = 5)
 
 
+3.
+[Not a solution]
+vars[1]x^2 + vars[2]x + vars[3] = 0
+insert variables a,b,c into index positions in vars, or just vars <- [a-value,b-value,c-value]
